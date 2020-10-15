@@ -2,9 +2,14 @@
 
 use google functions framework to run multiple cloud functions locally for development and test.
 
+## Note
+
+> This is a fork of [https://github.com/samswen/gcf-runner](https://github.com/samswen/gcf-runner) that fixes the issues pending approval of open into the main package repository:
+>-  (https://github.com/samswen/gcf-runner/issues/4)
+
 ## how to install
 
-npm install @samwen/gcf-runner
+    npm install gcf-local-runner
 
 ## how to use
 
